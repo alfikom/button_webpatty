@@ -12,7 +12,7 @@ transform: scale(1.2);
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td><a href="https://ecourt.mahkamahagung.go.id/" target="_blank" rel="noopener noreferrer"><img src="images/images/menu_ecourt.png" alt="menu ecourt" width="200" height="70" class="menuini" style="display: block; margin: 0px auto;" /></a></td>
+<td><a href="https://ecourt.mahkamahagung.go.id/" target="_blank" rel="noopener noreferrer"><img src="pa-tutuyan.go.id/main/images/images/menu_ecourt.png" alt="menu ecourt" width="200" height="70" class="menuini" style="display: block; margin: 0px auto;" /></a></td>
 <td><a href="https://putusan3.mahkamahagung.go.id/pengadilan/profil/pengadilan/pa-tutuyan.html" target="_self"><img src="images/images/Direktori-Putusan.png" alt="Direktori Putusan" width="200" height="70" class="menuini" style="display: block; margin-left: auto; margin-right: auto;" /></a></td>
 <td><a href="https://putusan.pa-tutuyan.go.id/" target="_blank" rel="noopener noreferrer"><img src="images/images/validasi-putusan2.jpg" alt="validasi putusan2" class="menuini" style="display: block; margin-left: auto; margin-right: auto;" /></a></td>
 <td><a href="http://sipp.pa-tutuyan.go.id/" target="_blank" rel="noopener noreferrer"><img src="images/images/forms/menusipp.png" alt="menusipp" class="menuini" style="display: block; margin-left: auto; margin-right: auto;" /></a></td>
